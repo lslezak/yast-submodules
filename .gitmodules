@@ -1,0 +1,316 @@
+[submodule "alternatives"]
+	path = alternatives
+	url = git@github.com:yast/yast-alternatives.git
+	branch = master
+[submodule "apparmor"]
+	path = apparmor
+	url = git@github.com:yast/yast-apparmor.git
+	branch = master
+[submodule "audit-laf"]
+	path = audit-laf
+	url = git@github.com:yast/yast-audit-laf.git
+	branch = master
+[submodule "auth-client"]
+	path = auth-client
+	url = git@github.com:yast/yast-auth-client.git
+	branch = master
+[submodule "auth-server"]
+	path = auth-server
+	url = git@github.com:yast/yast-auth-server.git
+	branch = master
+[submodule "boot-server"]
+	path = boot-server
+	url = git@github.com:yast/yast-boot-server.git
+	branch = master
+[submodule "bootloader"]
+	path = bootloader
+	url = git@github.com:yast/yast-bootloader.git
+	branch = master
+[submodule "caasp"]
+	path = caasp
+	url = git@github.com:yast/yast-caasp.git
+	branch = master
+[submodule "cio"]
+	path = cio
+	url = git@github.com:yast/yast-cio.git
+	branch = master
+[submodule "cluster"]
+	path = cluster
+	url = git@github.com:yast/yast-cluster.git
+	branch = master
+[submodule "configuration-management"]
+	path = configuration-management
+	url = git@github.com:yast/yast-configuration-management.git
+	branch = master
+[submodule "control-center"]
+	path = control-center
+	url = git@github.com:yast/yast-control-center.git
+	branch = master
+[submodule "control-center-gnome"]
+	path = control-center-gnome
+	url = git@github.com:yast/yast-control-center-gnome.git
+	branch = master
+[submodule "crowbar"]
+	path = crowbar
+	url = git@github.com:yast/yast-crowbar.git
+	branch = master
+[submodule "dhcp-server"]
+	path = dhcp-server
+	url = git@github.com:yast/yast-dhcp-server.git
+	branch = master
+[submodule "dns-server"]
+	path = dns-server
+	url = git@github.com:yast/yast-dns-server.git
+	branch = master
+[submodule "doc"]
+	path = doc
+	url = git@github.com:yast/yast-doc.git
+	branch = master
+[submodule "docker"]
+	path = docker
+	url = git@github.com:yast/yast-docker.git
+	branch = master
+[submodule "drbd"]
+	path = drbd
+	url = git@github.com:yast/yast-drbd.git
+	branch = master
+[submodule "fcoe-client"]
+	path = fcoe-client
+	url = git@github.com:yast/yast-fcoe-client.git
+	branch = master
+[submodule "firewall"]
+	path = firewall
+	url = git@github.com:yast/yast-firewall.git
+	branch = master
+[submodule "firstboot"]
+	path = firstboot
+	url = git@github.com:yast/yast-firstboot.git
+	branch = master
+[submodule "fonts"]
+	path = fonts
+	url = git@github.com:yast/yast-fonts.git
+	branch = master
+[submodule "ftp-server"]
+	path = ftp-server
+	url = git@github.com:yast/yast-ftp-server.git
+	branch = master
+[submodule "geo-cluster"]
+	path = geo-cluster
+	url = git@github.com:yast/yast-geo-cluster.git
+	branch = master
+[submodule "hardware-detection"]
+	path = hardware-detection
+	url = git@github.com:yast/yast-hardware-detection.git
+	branch = master
+[submodule "http-server"]
+	path = http-server
+	url = git@github.com:yast/yast-http-server.git
+	branch = master
+[submodule "installation"]
+	path = installation
+	url = git@github.com:yast/yast-installation.git
+	branch = master
+[submodule "installation-control"]
+	path = installation-control
+	url = git@github.com:yast/yast-installation-control.git
+	branch = master
+[submodule "iplb"]
+	path = iplb
+	url = git@github.com:yast/yast-iplb.git
+	branch = master
+[submodule "iscsi-client"]
+	path = iscsi-client
+	url = git@github.com:yast/yast-iscsi-client.git
+	branch = master
+[submodule "iscsi-lio-server"]
+	path = iscsi-lio-server
+	url = git@github.com:yast/yast-iscsi-lio-server.git
+	branch = master
+[submodule "isns"]
+	path = isns
+	url = git@github.com:yast/yast-isns.git
+	branch = master
+[submodule "journal"]
+	path = journal
+	url = git@github.com:yast/yast-journal.git
+	branch = master
+[submodule "kdump"]
+	path = kdump
+	url = git@github.com:yast/yast-kdump.git
+	branch = master
+[submodule "ldap"]
+	path = ldap
+	url = git@github.com:yast/yast-ldap.git
+	branch = master
+[submodule "mail"]
+	path = mail
+	url = git@github.com:yast/yast-mail.git
+	branch = master
+[submodule "metapackage-handler"]
+	path = metapackage-handler
+	url = git@github.com:yast/yast-metapackage-handler.git
+	branch = master
+[submodule "multipath"]
+	path = multipath
+	url = git@github.com:yast/yast-multipath.git
+	branch = master
+[submodule "nfs-client"]
+	path = nfs-client
+	url = git@github.com:yast/yast-nfs-client.git
+	branch = master
+[submodule "nfs-server"]
+	path = nfs-server
+	url = git@github.com:yast/yast-nfs-server.git
+	branch = master
+[submodule "nis-client"]
+	path = nis-client
+	url = git@github.com:yast/yast-nis-client.git
+	branch = master
+[submodule "nis-server"]
+	path = nis-server
+	url = git@github.com:yast/yast-nis-server.git
+	branch = master
+[submodule "ntp-client"]
+	path = ntp-client
+	url = git@github.com:yast/yast-ntp-client.git
+	branch = master
+[submodule "online-update"]
+	path = online-update
+	url = git@github.com:yast/yast-online-update.git
+	branch = master
+[submodule "online-update-configuration"]
+	path = online-update-configuration
+	url = git@github.com:yast/yast-online-update-configuration.git
+	branch = master
+[submodule "opensuse-mirror"]
+	path = opensuse-mirror
+	url = git@github.com:yast/yast-opensuse-mirror.git
+	branch = master
+[submodule "packager"]
+	path = packager
+	url = git@github.com:yast/yast-packager.git
+	branch = master
+[submodule "pam"]
+	path = pam
+	url = git@github.com:yast/yast-pam.git
+	branch = master
+[submodule "pkg-bindings"]
+	path = pkg-bindings
+	url = git@github.com:yast/yast-pkg-bindings.git
+	branch = master
+[submodule "printer"]
+	path = printer
+	url = git@github.com:yast/yast-printer.git
+	branch = master
+[submodule "proxy"]
+	path = proxy
+	url = git@github.com:yast/yast-proxy.git
+	branch = master
+[submodule "python-bindings"]
+	path = python-bindings
+	url = git@github.com:yast/yast-python-bindings.git
+	branch = master
+[submodule "rdp"]
+	path = rdp
+	url = git@github.com:yast/yast-rdp.git
+	branch = master
+[submodule "rear"]
+	path = rear
+	url = git@github.com:yast/yast-rear.git
+	branch = master
+[submodule "reipl"]
+	path = reipl
+	url = git@github.com:yast/yast-reipl.git
+	branch = master
+[submodule "rmt"]
+	path = rmt
+	url = git@github.com:yast/yast-rmt.git
+	branch = master
+[submodule "s390"]
+	path = s390
+	url = git@github.com:yast/yast-s390.git
+	branch = master
+[submodule "samba-client"]
+	path = samba-client
+	url = git@github.com:yast/yast-samba-client.git
+	branch = master
+[submodule "samba-server"]
+	path = samba-server
+	url = git@github.com:yast/yast-samba-server.git
+	branch = master
+[submodule "scanner"]
+	path = scanner
+	url = git@github.com:yast/yast-scanner.git
+	branch = master
+[submodule "schema"]
+	path = schema
+	url = git@github.com:yast/yast-schema.git
+	branch = master
+[submodule "security"]
+	path = security
+	url = git@github.com:yast/yast-security.git
+	branch = master
+[submodule "services-manager"]
+	path = services-manager
+	url = git@github.com:yast/yast-services-manager.git
+	branch = master
+[submodule "slp"]
+	path = slp
+	url = git@github.com:yast/yast-slp.git
+	branch = master
+[submodule "slp-server"]
+	path = slp-server
+	url = git@github.com:yast/yast-slp-server.git
+	branch = master
+[submodule "snapper"]
+	path = snapper
+	url = git@github.com:yast/yast-snapper.git
+	branch = master
+[submodule "squid"]
+	path = squid
+	url = git@github.com:yast/yast-squid.git
+	branch = master
+[submodule "sysconfig"]
+	path = sysconfig
+	url = git@github.com:yast/yast-sysconfig.git
+	branch = master
+[submodule "tftp-server"]
+	path = tftp-server
+	url = git@github.com:yast/yast-tftp-server.git
+	branch = master
+[submodule "theme"]
+	path = theme
+	url = git@github.com:yast/yast-theme.git
+	branch = master
+[submodule "transfer"]
+	path = transfer
+	url = git@github.com:yast/yast-transfer.git
+	branch = master
+[submodule "tune"]
+	path = tune
+	url = git@github.com:yast/yast-tune.git
+	branch = master
+[submodule "update"]
+	path = update
+	url = git@github.com:yast/yast-update.git
+	branch = master
+[submodule "update-alternatives"]
+	path = update-alternatives
+	url = git@github.com:yast/yast-update-alternatives.git
+	branch = master
+[submodule "vm"]
+	path = vm
+	url = git@github.com:yast/yast-vm.git
+	branch = master
+[submodule "vpn"]
+	path = vpn
+	url = git@github.com:yast/yast-vpn.git
+	branch = master
+[submodule "x11"]
+	path = x11
+	url = git@github.com:yast/yast-x11.git
+	branch = master
+[submodule "ycp-ui-bindings"]
+	path = ycp-ui-bindings
+	url = git@github.com:yast/yast-ycp-ui-bindings.git
+	branch = master
