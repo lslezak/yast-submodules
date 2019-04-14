@@ -12,3 +12,6 @@ Adding new modules:
 
 `git submodule add <url>`
 
+Removing a module:
+
+`git rm <module>`
